@@ -1,2 +1,5 @@
 # Drupal Export
-Exports drupal articles
+- Export Users
+- Export Articles
+- Export Recipes
+- etc.
