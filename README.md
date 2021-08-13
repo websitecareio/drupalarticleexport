@@ -1,2 +1,2 @@
-# Drupal Article Export
+# Drupal Export
 Exports drupal articles
