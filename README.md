@@ -9,7 +9,11 @@ If your tables got a prefix, you must change the table names to something differ
 
 Any custom data in each table will be exported too. It selects all.
 
+### How to use:
+Place the file drupalExportUsers.php in your drupal root directory and open it in a browser. Save the output to a file.
 
-- Export Articles
-- Export Recipes
-- etc.
+## Export Articles
+Not yet ready
+
+## Export Recipes
+Not yet ready
