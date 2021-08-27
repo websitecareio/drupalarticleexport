@@ -1,5 +1,7 @@
 # Drupal Export
-Exports drupal data to CSV for import into other systems.
+Exports drupal data to CSV for import into other systems. I needed it for WordPress and there is some files specific to WordPress installations. 
+You most likely will need to edit files to make it work for you, because the way drupal functions.
+
 
 ## Export Users
 Output user data to screen. CSV formed data, splitting with ;
