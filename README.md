@@ -26,4 +26,10 @@ Any custom data in each table will be exported too.
 Place the file drupalExportArticles.php in your drupal root directory and open it in a browser. Save the output to a file.
 
 ## Export Recipes
-Not yet ready
+Place the file drupalExportRecipies.php in your drupal root directory.
+Edit the image lines to match your sites images URLs ( Around line 60 - 2 places).
+Open it in a browser. Save the output to a file.
+
+The recipies can then be imported to at WP site using WP recipy maker plugin.
+
+
