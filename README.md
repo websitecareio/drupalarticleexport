@@ -45,7 +45,7 @@ update_post_meta( $parent_post_id, '_yoast_wpseo_title', $json_parent['seotitle'
 
 
 
-### Special thanks to:
+# Special thanks to:
 Developers of Wp All Import
 Developers of Wp Recipe Maker
 Brecht Vandersmissen @brechtvds ( https://github.com/BrechtVds ) from WP recipe maker for providing the solution for SEO data import.
